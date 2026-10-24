@@ -1,4 +1,4 @@
-# 📋 Gerenciador de Tarefas - IFSP
+# 📋 Gerenciador de Tarefas - IFSP (Cloud Firestore)
 
 Este é um aplicativo mobile desenvolvido em **Flutter/Dart**, atualizado para a **Avaliação 2 (DM3)**. Nesta nova versão, a persistência de dados foi migrada de um banco local (SQLite) para armazenamento em nuvem em tempo real utilizando o **Firebase Cloud Firestore**. O projeto demonstra a implementação de operações CRUD (Criar, Ler, Atualizar e Deletar) integradas aos serviços na nuvem do Google.
 
