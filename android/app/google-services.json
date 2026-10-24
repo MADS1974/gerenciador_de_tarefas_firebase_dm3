@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148613281510",
+    "project_id": "gerenciador-de-tarefas-dm3",
+    "storage_bucket": "gerenciador-de-tarefas-dm3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148613281510:android:bf77c16c022905b9bcad27",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_de_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlyK8sgW6JkbYEaykT1Lbd0BKcRzh8m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
